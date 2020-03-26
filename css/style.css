@@ -269,6 +269,7 @@ body {
 
   
 
+ 
   @media only screen and (min-width: 1280px) {
     .contain {
       width: 1000px;
@@ -276,6 +277,7 @@ body {
     }
   }
 
+ 
   @media only screen and (max-width: 1139px) {
     .contain .social {
       width: 900px;
@@ -285,6 +287,8 @@ body {
       margin: 0px;
     }
   }
+  
+  
   @media only screen and (max-width: 950px) {
     /* .footer .col {
       width: 33%;
@@ -296,6 +300,8 @@ body {
       font-size: 13px;
     }
   }
+  
+  
   @media only screen and (max-width: 600px) {
       .footer .col {
         width: 50%;
@@ -307,6 +313,8 @@ body {
         font-size: 13px;
       }
   }
+ 
+ 
   @media only screen and (max-width: 340px) {
     .footer .col {
       width: 100%;
@@ -314,9 +322,7 @@ body {
   }
 
 
-
-
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 768px) { 
   
   .service{
     width: 30%;
@@ -325,6 +331,7 @@ body {
 
 
   @media screen and (max-width: 600px) {
+    
     .topnav .search-container {
       float: none;
     }
