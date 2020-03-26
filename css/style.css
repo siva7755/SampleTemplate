@@ -243,6 +243,7 @@ body {
     cursor: pointer;
     text-decoration: none;
   }
+  
   .social ul li {
     display: inline-block;
     padding-right: 5px !important;
@@ -254,6 +255,7 @@ body {
     -webkit-transition: .1s;
     -moz-transition: .1s;
   }
+
   .clearfix {
     clear: both;
   }
